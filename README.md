@@ -5,4 +5,4 @@
 With TideAegis, users can simply select the appropriate reference database and load their query sequences to quickly assess genetic relationships. Beyond this core functionality, the platform also supports database management (including add/edit/delete/search operations), viral genome variation analysis, vector sequence removal from sequencing data, and fluorescence qPCR data processing.
 TideAegis is designed to bridge the “last mile” of pathogen detection—data analysis. 
 
-![Uploading start2.png…]()
+<img width="5200" height="3781" alt="start2" src="https://github.com/user-attachments/assets/7b189452-dc1c-4e39-a35f-dfa4d09727fa" />
